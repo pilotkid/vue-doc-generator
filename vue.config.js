@@ -4,7 +4,7 @@ module.exports = {
   ]
 }
 
-
+/* AUTO GENERATE DOCS ON COMPILE */
 const AutoDocumentAfterReload = function (cb) {
   this.apply = function (compiler) {
     console.log(compiler);
