@@ -1,12 +1,13 @@
 This is a quick example of how to use vue-styleguidist and the vue-docgen-cli. As well as a bit on generating the documentation at runtime, without manual intervention. There is also a YouTube video covering how to do this here: 
 
 
-![YouTube video Preview](https://imgur.com/a/eG9So7U "Watch tutorial on YouTube")
+[![YouTube video documenting process](http://img.youtube.com/vi/kKn3wMcQyGk/0.jpg)](http://www.youtube.com/watch?v=kKn3wMcQyGk)
+
 
 # Examples
-Example output: /pilotkid/vue-doc-generator/blob/master/docs/src/components/HelloWorld.md
+Example output: https://github.com/pilotkid/vue-doc-generator/blob/master/docs/src/components/HelloWorld.md
 
-Auto Create Documentation (development environment only) on compile: /pilotkid/vue-doc-generator/blob/master/vue.config.js
+Auto Create Documentation (development environment only) on compile: https://github.com/pilotkid/vue-doc-generator/blob/master/vue.config.js
 
 
 # Sources
