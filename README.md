@@ -1,7 +1,12 @@
+
+[![Support me on Patreon](https://img.shields.io/badge/patreon-donate-green.svg "Support me on Patreon")](https://www.patreon.com/pilotkid2011)
+
 This is a quick example of how to use vue-styleguidist and the vue-docgen-cli. As well as a bit on generating the documentation at runtime, without manual intervention. There is also a YouTube video covering how to do this here: 
 
 
-[![YouTube video documenting process](http://img.youtube.com/vi/kKn3wMcQyGk/0.jpg)](http://www.youtube.com/watch?v=kKn3wMcQyGk)
+<div align="center" style="width:100%">
+  <a href="https://www.youtube.com/watch?v=kKn3wMcQyGk"><img src="https://i.imgur.com/hOJWEhq.png" alt="YouTube video documenting process"></a>
+</div>
 
 
 # Examples
